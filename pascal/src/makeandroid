@@ -1,0 +1,15 @@
+#/bin/bash
+cp androidlibs/libc.so libc.so
+cp androidlibs/libc.a libc.a
+cp androidlibs/liblog.so liblog.so
+cp androidlibs/libdl.so libdl.so
+cp androidlibs/libGLESv2.so libGLESv2.so
+rm *.ppu
+rm *.s
+rm *.o
+rm link.res
+ppcrossarm -b -B -XX -Xc -XD -Tlinux -darm -dandroid -dBeRoXMRingBuffer -dMixerOwnDefine -dUnrolledLoops -dMixerNearest -dMixerLinear -dMixerCubicSpline -dMixerWindowedFIR -dUseMIDIMacrors -dUseAmigaMODLoader -dUseDPCM4 -dUseFilters -dUseMono -dUseStereo -dUseSaver -dmobile -olibjumpgame.so jumpgame.dpr
+rm *.ppu
+rm *.s
+rm *.o
+rm link.res

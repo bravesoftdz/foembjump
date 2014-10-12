@@ -1,0 +1,2 @@
+#!/bin/bash
+ppcx64 -Sd -B -dSDL -dBeRoXMRingBuffer jumpgame.dpr

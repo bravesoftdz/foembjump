@@ -1,0 +1,22 @@
+
+Graphics & Foembs: 
+  Christoph 'giZMo' Muetze 
+  http://www.pixelz.de/
+  http://www.twitter.com/chris_muetze 
+
+Code & Music: 
+  Benjamin 'BeRo' Rosseaux 
+  benjamin@rosseaux.de
+  http://www.rosseaux.net/
+  http://www.twitter.com/coder 
+
+Sounds:
+  Jan C. 'jco' Obergfell
+  http://www.jco.de/
+
+SVN-repo-hoster:
+  Alex 'freQvibez' Brem
+  http://www.freqvibez.net/
+  http://twitter.com/localhost
+
+
